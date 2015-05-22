@@ -1,0 +1,7 @@
+vm:
+  memory: 2048
+  cpus: 2
+network:
+  ip: 192.168.33.10
+github:
+  token: 1976aba9b0b8c2d6ddb4f94db13bd352e98a5051
